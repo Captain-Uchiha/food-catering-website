@@ -34,12 +34,11 @@
 }
 
 #services .box { 
-    padding: 2px;
+    padding: 14px;
+    margin: 2px 0px; 
     margin-bottom: 20px;
-    margin: 2px;
-    display: block;
-    width: 220px;
 }
+
 #services .box img 
 {
     width: 165px;
